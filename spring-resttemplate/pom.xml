@@ -152,7 +152,7 @@
 
 
     <properties>
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
 
         <!-- util -->
         <guava.version>20.0</guava.version>
